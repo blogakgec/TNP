@@ -1,0 +1,147 @@
+.page-header
+{
+	text-align: center;
+
+}
+
+
+.wrapper
+{
+	width: 300px;
+	margin-left:70%;
+	margin-top: 5%;
+	text-align: center;
+	margin-bottom: 8%;
+	border:1px solid black;
+	padding: 10px;
+	background-color: black;
+	border-radius: 10px;
+}
+
+#footer
+{
+	margin-bottom: 0px;
+	text-align: center;
+}
+#form
+{
+	width:200px;
+	margin-left: 300px;
+	margin-top: 20px;
+	background-color: black;
+	color: white;
+	border-radius: 10px;
+	padding:15px;
+	margin-left: 70%;
+}
+
+#not_pannel
+{
+	border:1px solid blue;
+	padding:15px;
+	font-size: 15px;
+	font-family: verdana;
+	margin-top:15px;
+	border-radius: 10px;
+}
+#table_design
+{
+	background-color: black;
+	color:white;
+	text-align: center;
+	padding:10px;
+	margin-left: 400px;
+	margin-top: 50px;
+	width:500px;
+}
+tr,td,th
+{
+	text-align: center;
+	padding: 10px;
+	border: 1px solid white;
+}
+#left-block
+{
+	float: left;
+	margin-left:12%;
+	margin-top: 40px;
+	height: 600px;
+}
+#buses_form
+{
+	background-color: black;
+	text-align: center;
+	padding:15px;
+	border-radius: 10px;
+	margin-left:550px;
+	width: 200px;
+	margin-top:50px;
+}
+#right-block
+{	width: 400px;
+	float: right;
+	margin-right: 200px;
+
+}
+#profile
+{
+	margin-left:5%;
+	color: black;
+	width:700px;
+	height: 400px;
+}
+#profile_pic
+{
+	float:left;
+	padding:15px;
+	margin-left: 25px;
+	margin-top: 40px;
+}
+#profile_header
+{
+	font-size:20px;
+	font-family:verdana;
+	color:black;
+	font-weight: 600;
+}
+#profile_data{
+	color: black;
+	margin-top: 20px;
+	margin-left: 30px;
+	float: right;
+}
+#workshop
+{
+	width: 450px;	
+	margin left: 200px;
+	margin-top: 20px;
+}
+
+#left
+{
+	width: 400px;
+	float: left;
+}
+#middle
+{
+	width: 400px;
+	float: left;
+}
+
+#right
+{
+	width: 400px;
+	float: left;
+}
+
+#events-pannel
+{
+	width: 500px;
+	text-align: center;
+	background-color:grey;
+	color:white;
+	margin-left: 32%;
+	border:1px solid grey;
+	margin-top: 15px;
+	padding:15px;
+}
